@@ -29,9 +29,8 @@ ALLOWED_HOSTS = []
 
 # https://home.openweathermap.org/api_keys
 
-OPENWEATHER_API_KEY = '05f15ea1f97f839a34925d2ef6c7698c'
-# OPENWEATHER_API_KEY = '3cba3bf6c8f20952fa5ae49a2d87bb9f'
-# OPENWEATHER_API_KEY = '1e7c2468249019c4dfb8e704c012e273'
+OPENWEATHER_API_KEY = '3cba3bf6c8f20952fa5ae49a2d87bb9f'
+
 
 
 # Application definition
